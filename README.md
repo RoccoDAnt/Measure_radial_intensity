@@ -10,7 +10,7 @@ This repository contains the code used the analyze the data in the following pre
 ## ImageJ macro - Measurement
 The ImageJ macro identify circular structures in the field of view and generates radial lines that are used to obtain intensity measurements.
 
-| ![](https://raw.githubusercontent.com/RoccoDAnt/Measure_radial_intensity/main/docs/Screenshot_radial_analysis_Ch01.png) |  ![](https://raw.githubusercontent.com/RoccoDAnt/Measure_radial_intensity/main/docs/Screenshot_radial_analysis_Ch02.png)|
+| ![](./docs/Screenshot_radial_analysis_Ch01.png) |  ![](./docs/Screenshot_radial_analysis_Ch02.png)|
 | -----|  ----|
 | Radial measurement of Ch 01 | Radial measurement of Ch 01|
 
@@ -20,6 +20,6 @@ The ImageJ macro identify circular structures in the field of view and generates
 The Jupyter notebook code concatenates multiple .csv files containing the radial intensity measurements, and plot the average with confidence interval.
 
 
-| ![](https://raw.githubusercontent.com/RoccoDAnt/Measure_radial_intensity/main/docs/Radial_Analysis_Plot-example.png)    |
+| ![](./docs/Radial_Analysis_Plot-example.png)    |
 | -----|
-| Radial measurement of Ch 01 |
+| Radial measurement of Ch00 and Ch01 |
